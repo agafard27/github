@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{E767139F-8CD7-4AD7-A4F2-8008E19D8F09}|DXApplication8\\DXApplication8.csproj|solutionrelative:dxapplication8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E767139F-8CD7-4AD7-A4F2-8008E19D8F09}|DXApplication8\\DXApplication8.csproj|c:\\users\\demirbas\\desktop\\github\\dxapplication8\\dxapplication8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E767139F-8CD7-4AD7-A4F2-8008E19D8F09}|DXApplication8\\DXApplication8.csproj|C:\\Users\\demirbas\\Desktop\\github\\DXApplication8\\dxapplication8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E767139F-8CD7-4AD7-A4F2-8008E19D8F09}|DXApplication8\\DXApplication8.csproj|solutionrelative:dxapplication8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,9 +28,10 @@
               "RelativeDocumentMoniker": "DXApplication8\\Form1.cs",
               "ToolTip": "C:\\Users\\demirbas\\Desktop\\github\\DXApplication8\\DXApplication8\\Form1.cs",
               "RelativeToolTip": "DXApplication8\\Form1.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAQwGQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAF0AAAAAAAAAAIA9wG4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T12:31:32.506Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
