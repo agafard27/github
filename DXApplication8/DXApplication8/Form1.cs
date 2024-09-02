@@ -110,5 +110,10 @@ namespace DXApplication8
         {
 
         }
+
+        private void barCheckItem4_CheckedChanged(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+
+        }
     }
 }
