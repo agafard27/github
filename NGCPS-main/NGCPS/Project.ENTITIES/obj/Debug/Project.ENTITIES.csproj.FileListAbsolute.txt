@@ -1,0 +1,426 @@
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Project.ENTITIES.dll.config
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Project.ENTITIES.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Project.ENTITIES.pdb
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Cors.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Localization.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Razor.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\System.Security.Permissions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Cors.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Localization.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Razor.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.CodeAnalysis.Razor.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Localization.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\obj\Debug\Project.ENTITIES.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\obj\Debug\Project.ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\obj\Debug\Project..EF888040.Up2Date
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\obj\Debug\Project.ENTITIES.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Project.ENTITIES\obj\Debug\Project.ENTITIES.pdb
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Project.ENTITIES.dll.config
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Project.ENTITIES.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Project.ENTITIES.pdb
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Cors.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Localization.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Razor.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Localization.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Cors.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Localization.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Cors.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Localization.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.RazorPages.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Razor.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.CodeAnalysis.Razor.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Localization.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\obj\Debug\Project.ENTITIES.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\obj\Debug\Project.ENTITIES.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\obj\Debug\Project..EF888040.Up2Date
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\obj\Debug\Project.ENTITIES.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Project.ENTITIES\obj\Debug\Project.ENTITIES.pdb
