@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\demirbas\\Documents\\GitHub\\NGCPS\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\NGCPS\\",
   "Documents": [],
   "DocumentGroupContainers": [
     {
@@ -8,20 +8,12 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 222,
+          "DockedWidth": 200,
           "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d0792f32-0a01-4ea6-9bfe-96a4cb5d6f12}"
             }
           ]
         }
