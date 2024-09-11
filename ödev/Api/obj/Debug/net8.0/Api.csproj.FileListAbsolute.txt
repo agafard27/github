@@ -1,0 +1,259 @@
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Api.exe
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Api.deps.json
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Api.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Api.pdb
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Project.BLL.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Project.DAL.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Project.ENTITIES.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Project.BLL.pdb
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Project.BLL.dll.config
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Project.DAL.pdb
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Project.DAL.dll.config
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Project.ENTITIES.pdb
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\bin\Debug\net8.0\Project.ENTITIES.dll.config
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\obj\Debug\net8.0\Api.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\obj\Debug\net8.0\Api.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\obj\Debug\net8.0\Api.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\obj\Debug\net8.0\refint\Api.dll
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\obj\Debug\net8.0\Api.pdb
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\New Cps\NGCPSS\NGCPS-main\Api\obj\Debug\net8.0\ref\Api.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\appsettings.json
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Api.exe
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Api.deps.json
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Api.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Api.pdb
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Project.BLL.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Project.DAL.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Project.ENTITIES.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Project.BLL.pdb
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Project.BLL.dll.config
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Project.DAL.pdb
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Project.DAL.dll.config
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Project.ENTITIES.pdb
+C:\Users\Admin\Desktop\repos\NGCPS\Api\bin\Debug\net8.0\Project.ENTITIES.dll.config
+C:\Users\Admin\Desktop\repos\NGCPS\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\repos\NGCPS\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\repos\NGCPS\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\repos\NGCPS\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+C:\Users\Admin\Desktop\repos\NGCPS\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\repos\NGCPS\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\Desktop\repos\NGCPS\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\repos\NGCPS\Api\obj\Debug\net8.0\Api.RazorAssemblyInfo.cache
+C:\Users\Admin\Desktop\repos\NGCPS\Api\obj\Debug\net8.0\Api.RazorAssemblyInfo.cs
+C:\Users\Admin\Desktop\repos\NGCPS\Api\obj\Debug\net8.0\Api.sourcelink.json
+C:\Users\Admin\Desktop\repos\NGCPS\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+C:\Users\Admin\Desktop\repos\NGCPS\Api\obj\Debug\net8.0\Api.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\obj\Debug\net8.0\refint\Api.dll
+C:\Users\Admin\Desktop\repos\NGCPS\Api\obj\Debug\net8.0\Api.pdb
+C:\Users\Admin\Desktop\repos\NGCPS\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+C:\Users\Admin\Desktop\repos\NGCPS\Api\obj\Debug\net8.0\ref\Api.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\obj\Debug\net8.0\Api.csproj.AssemblyReference.cache
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\obj\Debug\net8.0\Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\obj\Debug\net8.0\Api.AssemblyInfoInputs.cache
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\obj\Debug\net8.0\Api.AssemblyInfo.cs
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\obj\Debug\net8.0\Api.csproj.CoreCompileInputs.cache
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\obj\Debug\net8.0\Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\obj\Debug\net8.0\Api.RazorAssemblyInfo.cache
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\obj\Debug\net8.0\Api.RazorAssemblyInfo.cs
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\obj\Debug\net8.0\Api.sourcelink.json
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\appsettings.json
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Api.exe
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Api.deps.json
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Api.runtimeconfig.json
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Api.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Api.pdb
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\EntityFramework.SqlServer.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\EntityFramework.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Project.BLL.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Project.DAL.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Project.ENTITIES.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Project.BLL.pdb
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Project.BLL.dll.config
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Project.DAL.pdb
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Project.DAL.dll.config
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Project.ENTITIES.pdb
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\bin\Debug\net8.0\Project.ENTITIES.dll.config
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\obj\Debug\net8.0\Api.csproj.Up2Date
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\obj\Debug\net8.0\Api.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\obj\Debug\net8.0\refint\Api.dll
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\obj\Debug\net8.0\Api.pdb
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
+C:\Users\demirbas\Documents\GitHub\-dev\NGCPS\Api\obj\Debug\net8.0\ref\Api.dll

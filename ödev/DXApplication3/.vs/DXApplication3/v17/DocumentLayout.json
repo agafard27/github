@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\demirbas\\Documents\\GitHub\\-dev\\NGCPS\\DXApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFECC9FE-6D3F-4E26-83B1-9D873B3075ED}|..\\Project.DAL\\Project.DAL.csproj|c:\\users\\demirbas\\documents\\github\\-dev\\ngcps\\project.dal\\repository\\qualityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E589F3-7839-41CE-A835-1BA4F7B580F4}|..\\Project.ENTITIES\\Project.ENTITIES.csproj|c:\\users\\demirbas\\documents\\github\\-dev\\ngcps\\project.entities\\models\\cw_000_quality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40E589F3-7839-41CE-A835-1BA4F7B580F4}|..\\Project.ENTITIES\\Project.ENTITIES.csproj|c:\\users\\demirbas\\documents\\github\\-dev\\ngcps\\project.entities\\models\\cw_000_qualityseq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 314,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d0792f32-0a01-4ea6-9bfe-96a4cb5d6f12}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cw_000_qualityseq.cs",
+              "DocumentMoniker": "C:\\Users\\demirbas\\Documents\\GitHub\\-dev\\NGCPS\\Project.ENTITIES\\Models\\cw_000_qualityseq.cs",
+              "RelativeDocumentMoniker": "..\\Project.ENTITIES\\Models\\cw_000_qualityseq.cs",
+              "ToolTip": "C:\\Users\\demirbas\\Documents\\GitHub\\-dev\\NGCPS\\Project.ENTITIES\\Models\\cw_000_qualityseq.cs",
+              "RelativeToolTip": "..\\Project.ENTITIES\\Models\\cw_000_qualityseq.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T11:20:37.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cw_000_quality.cs",
+              "DocumentMoniker": "C:\\Users\\demirbas\\Documents\\GitHub\\-dev\\NGCPS\\Project.ENTITIES\\Models\\cw_000_quality.cs",
+              "RelativeDocumentMoniker": "..\\Project.ENTITIES\\Models\\cw_000_quality.cs",
+              "ToolTip": "C:\\Users\\demirbas\\Documents\\GitHub\\-dev\\NGCPS\\Project.ENTITIES\\Models\\cw_000_quality.cs",
+              "RelativeToolTip": "..\\Project.ENTITIES\\Models\\cw_000_quality.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T11:00:43.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QualityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\demirbas\\Documents\\GitHub\\-dev\\NGCPS\\Project.DAL\\Repository\\QualityRepository.cs",
+              "RelativeDocumentMoniker": "..\\Project.DAL\\Repository\\QualityRepository.cs",
+              "ToolTip": "C:\\Users\\demirbas\\Documents\\GitHub\\-dev\\NGCPS\\Project.DAL\\Repository\\QualityRepository.cs",
+              "RelativeToolTip": "..\\Project.DAL\\Repository\\QualityRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA3wCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T10:59:55.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

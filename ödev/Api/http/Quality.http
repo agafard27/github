@@ -1,0 +1,30 @@
+# For more info on HTTP files go to https://aka.ms/vs/httpfile
+### GET tüm kalite kayıtlarını getirir
+GET https://localhost:5002/api/quality HTTP/1.1
+
+
+###
+
+### GET belirtilen ID'ye sahip kalite kaydını getirir
+GET https://localhost:5002/api/quality/{id} HTTP/1.1
+
+
+###
+
+### POST yeni bir kalite kaydı ekler
+POST https://lochalhost:5002/api/quality HTTP/1.1
+
+
+
+
+###
+
+### PUT belirtilen ID'ye sahip kalite kaydını günceller
+PUT https://localhost:5002/api/quality/{id} HTTP/1.1
+
+
+###
+
+### DELETE belirtilen ID'ye sahip kalite kaydını siler
+DELETE https://localhost:5002/api/quality/{id} HTTP/1.1
+content-type : application/json
